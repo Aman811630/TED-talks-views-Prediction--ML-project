@@ -69,6 +69,7 @@ Data Wrangling
           - APIs 
           - Web Scraping 
           - Databases 
+          
       2. Assessing Data
       3. Cleaning Data 
       
@@ -79,8 +80,7 @@ model implementation and pre-processing
 
       1. Train, Test and Split
       2. preprocessing using column-transformer
-      3. make best pipeline     
-      
+     
 Fitting the regression models and HyperParameter Tuning
 Final selection of the model
 Conclusion
