@@ -1,3 +1,7 @@
+
+![Screenshot (65)](https://github.com/Aman811630/TED-talks-views-Prediction--ML-project/assets/100797749/6d71fdc6-c185-4ee5-96b4-415bd026162f)
+
+
 # TED-talks-views-Prediction--ML-project
 
 Project Summary :-
