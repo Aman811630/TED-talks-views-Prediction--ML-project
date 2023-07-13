@@ -87,15 +87,16 @@ model implementation and pre-processing
      
 Fitting the regression models and HyperParameter Tuning
 Final selection of the model
+
 Conclusion
 
 Algorithms used for ML model implementation :-
-Linear Regression
-Ridge Regression(L2)
-Lasso Regression(L1)
-DecisionTreeRegressor
-RandomForestRegressor
-GradientBoostingRegressor
+Linear Regression ,
+Ridge Regression(L2) ,
+Lasso Regression(L1) ,
+DecisionTreeRegressor ,
+RandomForestRegressor ,
+GradientBoostingRegressor ,
 XGBRegressor
 
 
